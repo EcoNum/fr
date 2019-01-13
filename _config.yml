@@ -198,6 +198,8 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - "*.Rproj"
+  - R
 
 # prose.io config
 prose:
