@@ -12,7 +12,7 @@ Un axe important du développement logiciel pour nous est de rendre R plus abord
 
 Tous ces logiciels sont distribués en open source, comme R lui-même. Ils sont téléchargeables depuis le site [SciViews](http://www.sciviews.org/).
 
-Nos publications scientifiques relatives à ce thème sont référencées dans la base de données institutionnelle [DI-Fusion](https://sharepoint1.umons.ac.be/FR/UNIVERSITE/FACULTES/FS/SERVICES/INSTITUT_BIO/ECOLOGIE_NUMERIQUE_MILIEUX_AQUATIQUES/Pages/Publications.aspx) de l'UMONS.
+*Nos publications scientifiques relatives à ce thème sont référencées dans la base de données institutionnelle [DI-Fusion](https://sharepoint1.umons.ac.be/FR/UNIVERSITE/FACULTES/FS/SERVICES/INSTITUT_BIO/ECOLOGIE_NUMERIQUE_MILIEUX_AQUATIQUES/Pages/Publications.aspx) de l'UMONS.*
 
 
 ## Thèses, mémoires et stages
@@ -20,11 +20,11 @@ Nos publications scientifiques relatives à ce thème sont référencées dans l
 Travaux de thèse de doctorat, mémoires et stages ayant participé aux développements logiciels dans notre laboratoire :
 
 - Denis, K., 2014. **Étude en temps réel du plancton dans la zone côtière belge de la Mer du Nord à l'aide du FlowCAM et de Zoo/PhytoImage.** Thèse de Doctorat à l'UMONS, promoteur : Ph. Grosjean. 159pp.
-Govaerts, P., 2010. **Implémentation d'une technique de comptage automatique du nombre de cellules par colonies de phytoplancton de la Mer du Nord à l'aide du FlowCAM et de Zoo/PhytoImage.** Mémoire de Master à l'UMONS, promoteur : Ph. Grosjean. 101pp avec les annexes.
-Bonso, A., 2009. **Correction d'erreur en classification supervisée. Application au logiciel Zoo/PhytoImage.** Stage de Master à l'UMH, promoteur : Ph. Grosjean. 35pp.
-Denis, K., 2006. **Reconnaissance automatique du phytoplancton par analyse d'image avec Zoo/Phytoimage.** Mémoire de DEA à l'UMH, promoteur : Ph. Grosjean. 71pp.
-Denis, K., 2005. **Etude de la diversité du plancton au large du récif de Tuléar (Madagascar) par analyse d'image.** Mémoire de Licence à l'UMH, promoteur : Ph. Grosjean. 160pp avec les annexes.
- 
+- Govaerts, P., 2010. **Implémentation d'une technique de comptage automatique du nombre de cellules par colonies de phytoplancton de la Mer du Nord à l'aide du FlowCAM et de Zoo/PhytoImage.** Mémoire de Master à l'UMONS, promoteur : Ph. Grosjean. 101pp avec les annexes.
+- Bonso, A., 2009. **Correction d'erreur en classification supervisée. Application au logiciel Zoo/PhytoImage.** Stage de Master à l'UMH, promoteur : Ph. Grosjean. 35pp.
+- Denis, K., 2006. **Reconnaissance automatique du phytoplancton par analyse d'image avec Zoo/Phytoimage.** Mémoire de DEA à l'UMH, promoteur : Ph. Grosjean. 71pp.
+- Denis, K., 2005. **Etude de la diversité du plancton au large du récif de Tuléar (Madagascar) par analyse d'image.** Mémoire de Licence à l'UMH, promoteur : Ph. Grosjean. 160pp avec les annexes.
+
 
 ## Pouvons-nous vous être utile ? 
 
