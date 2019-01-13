@@ -17,18 +17,19 @@ baseurl: "/fr"
 title: EcoNum
 
 # Short description of your site
-description: We study corals and plankton. We build tools for data science.
+description: Nous étudions les coraux et le plancton. Nous élaborons des outils pour le science des données.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Contact: "aboutme"
+  Ressources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   UMONS: "https://web.umons.ac.be/fr/"
+  en: "https://econum.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -64,7 +65,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Philippe Grosjean
+  name: EcoNum
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -72,7 +73,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "philippe.Grosjean@umons.ac.be"
+  email: "philippe.grosjean@umons.ac.be"
 #  facebook: yourname
   github: econum
 #  twitter: yourname
@@ -156,6 +157,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
+lang: "fr"
 timezone: "Europe/Brussels"
 markdown: kramdown
 highlighter: rouge
