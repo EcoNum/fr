@@ -24,10 +24,13 @@ Travaux de thèse de doctorat, mémoires et stages ayant participé aux dévelop
 - Bonso, A., 2009. **Correction d'erreur en classification supervisée. Application au logiciel Zoo/PhytoImage.** Stage de Master à l'UMH, promoteur : Ph. Grosjean. 35pp.
 - Denis, K., 2006. **Reconnaissance automatique du phytoplancton par analyse d'image avec Zoo/Phytoimage.** Mémoire de DEA à l'UMH, promoteur : Ph. Grosjean. 71pp.
 - Denis, K., 2005. **Etude de la diversité du plancton au large du récif de Tuléar (Madagascar) par analyse d'image.** Mémoire de Licence à l'UMH, promoteur : Ph. Grosjean. 160pp avec les annexes.
-
+ 
 
 ## Pouvons-nous vous être utile ? 
 
 Nous assurons des formations générales ou plus spécialisées à l'utilisation de R. Nous avons déjà dispensé ce genre de formation en français ou en anglais, notamment à l' [IFREMER](https://wwz.ifremer.fr) (France), à [AZTI](https://www.azti.es) (Espagne) et au [CEFAS](https://www.gov.uk/government/organisations/centre-for-environment-fisheries-and-aquaculture-science) (Angleterre).
 
 Nous développons aussi des solutions logicielles spécialisées en fonction de besoins spécifiques, également pour l'industrie, sous forme de sous-contractance. [Contactez-nous pour en savoir plus...](Philippe.Grosjean@umons.ac.be)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgzNzY5MDU0OF19
+-->
