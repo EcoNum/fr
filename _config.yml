@@ -14,7 +14,7 @@ baseurl: "/fr"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: EcoNum
+title: Écologie numérique des Milieux aquatiques
 
 # Short description of your site
 description: Nous étudions les coraux et le plancton. Nous élaborons des outils pour le science des données.
@@ -24,17 +24,17 @@ description: Nous étudions les coraux et le plancton. Nous élaborons des outil
 # List of links in the navigation bar
 navbar-links:
   Equipe: "staff"
-  Contact: "aboutme"
+  Contact: "contact"
   Ressources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Science des Données Biologiques: "http://biodatascience-course.sciviews.org"
+    - Zoo/PhytoImage: "http://www.sciviews.org/zooimage/"
+    - SciViews: "http://www.sciviews.org/"
   UMONS: "https://web.umons.ac.be/fr/"
   en: "https://econum.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/econum-logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -162,6 +162,7 @@ locale: "fr-BE"
 timezone: "Europe/Brussels"
 markdown: kramdown
 highlighter: rouge
+include: ['_pages']
 permalink: /:year-:month-:day-:title/
 paginate: 5
 

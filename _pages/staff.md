@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /staff/
 title: Equipe
 subtitle: Qui sommes nous ?
 ---
