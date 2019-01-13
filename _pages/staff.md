@@ -1,19 +1,16 @@
 ---
 layout: page
 title: Equipe
-subtitle: Why you'd want to go on a date with me
+subtitle: Qui sommes nous\ ?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Philippe Grosjean**
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### my history
+### Les anciens par ordre alphabétique\ :
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Achille Bonso (stagiaire 2008-2009), François Dendoncker (mémorant 2006-2007), Olivier Detournay (post-doc 2007), Virginie Dudome (mémorante 2010-2011), Davy Fiankan (mémorant 2006-2007 ULB-UMH), Diana Galvez Lopez (mémorante ERASMUS 2005-2006), Pierre Govaerts (mémorant 2009-2010), Vincent Lhussier (mémorant 2005-2006), Hadrien Maloux (mémorant 2010-2011), Arnaud Michot (stagiaire 2005-2006), Giulia Puleo (mémorante 2010-2011), Stéphanie Roosa (mémorante 2008-2009), Xavier Tezzo (mémorant 2007-2008 ULB-UMH), Devaragen Vaïtilingon (post-doc 2005).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzE2OTI2M119
+eyJoaXN0b3J5IjpbLTE1Njk3NjMwMjZdfQ==
 -->
