@@ -8,40 +8,28 @@ subtitle: Qui sommes nous ?
 #### [Philippe Grosjean](http://phgrosjean.sciviews.org)
 
 ![](../img/phil.png)
-
-Directeur du service, professeur
-
-Téléphone : +32-65.37.34.97 
-
-Email : Philippe.Grosjean@umons.ac.be)
-
-Liens : [C.V.](http://www.sciviews.org/_phgrosjean/CVfr.pdf), [thèse de doctorat](http://www.sciviews.org/_phgrosjean/These.pdf)
+- Directeur du service, professeur
+- Téléphone : +32-65.37.34.97 
+- Email : Philippe.Grosjean@umons.ac.be)
+- Liens : [C.V.](http://www.sciviews.org/_phgrosjean/CVfr.pdf), [thèse de doctorat](http://www.sciviews.org/_phgrosjean/These.pdf)
 
 
 #### [Guyliann Engels](http://www.guyliann.be)
 
 ![](../img/guyliann.png)
-
-Assistant & doctorant
-
-Mésocosmes artificiels et coraux
-
-Téléphone : +32-65.37.34.78
-
-Email : Guyliann.Engels@umons.ac.be
+- Assistant & doctorant
+- Mésocosmes artificiels et coraux
+- Téléphone : +32-65.37.34.78
+- Email : Guyliann.Engels@umons.ac.be
 
 
 #### Antoine Batigny
 
 ![](../img/antoine.png)
-
-Technicien
-
-Animalier spécialiste en aquariologie marine tropicale
-
-Téléphone : +32-65.37.33.59 
-
-Email :  Antoine.Batigny@umons.ac.be
+- Technicien
+- Animalier spécialiste en aquariologie marine tropicale
+- Téléphone : +32-65.37.33.59 
+- Email :  Antoine.Batigny@umons.ac.be
 
 
 ### Les anciens par ordre alphabétique :
