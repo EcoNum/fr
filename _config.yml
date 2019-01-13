@@ -23,6 +23,7 @@ description: Nous étudions les coraux et le plancton. Nous élaborons des outil
 
 # List of links in the navigation bar
 navbar-links:
+  Equipe: "staff"
   Contact: "aboutme"
   Ressources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
