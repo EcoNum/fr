@@ -26,6 +26,7 @@ navbar-links:
   Equipe: "staff"
   Contact: "contact"
   Ressources:
+    - Publications: "https://sharepoint1.umons.ac.be/FR/UNIVERSITE/FACULTES/FS/SERVICES/INSTITUT_BIO/ECOLOGIE_NUMERIQUE_MILIEUX_AQUATIQUES/Pages/Publications.aspx"
     - Science des Données Biologiques: "http://biodatascience-course.sciviews.org"
     - Zoo/PhytoImage: "http://www.sciviews.org/zooimage/"
     - SciViews: "http://www.sciviews.org/"
